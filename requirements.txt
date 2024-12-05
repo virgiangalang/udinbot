@@ -5,3 +5,4 @@ httpcore==0.17.3
 httpx==0.24.1
 idna==3.4
 numpy==1.21.6
+python-telegram-bot==20.5
